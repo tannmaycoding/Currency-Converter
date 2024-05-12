@@ -2,8 +2,8 @@ import requests
 from tkinter import *
 from tkinter import ttk
 
-key = "fca_live_HFvbA3NnNDL6krBNiJBvnREfg5a2gSI1lmLud1OR"
-baseURL = "https://api.freecurrencyapi.com/v1/latest?apikey=fca_live_HFvbA3NnNDL6krBNiJBvnREfg5a2gSI1lmLud1OR"
+key = "Your-API-Key"
+baseURL = "https://api.freecurrencyapi.com/v1/latest?apikey=Your-API-Key"
 currencies = ["USD", "INR", "AUD", "CAD", "EUR", "GBP", "JPY", "CHF"]
 
 
